@@ -1,0 +1,5 @@
+{
+  "name": "Copy of USDA AI Assistant 'Agrona'",
+  "description": "A sophisticated React application that clones the USDA Rural Development homepage and integrates 'Agrona', an AI chatbot powered by Gemini. Agrona assists users by providing grounded, cited answers to questions about USDA services and resources.",
+  "requestFramePermissions": []
+}
